@@ -1,0 +1,1 @@
+/home/droszman/.config/omarchy/current/theme/neovim.lua
